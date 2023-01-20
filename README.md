@@ -1,6 +1,6 @@
 
 
-# LAMPI Smart Light
+# Lampi Smart Light
 
 ## Description
 
