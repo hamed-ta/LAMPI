@@ -20,7 +20,7 @@ LAMPI is an RGBWW WiFi LED smart light based on ESP8266, there is an INA219 ener
 - Serial header pins for programming and debugging.
 - 66 pcs 2835 (0.1 to 1W) (3 to 12V)  SMD LED board design.
 - Compact design.
-- Compatible with [ESPurna Firmware](https://github.com/xoseperez/espurnahttp:// "ESPurna Firmware") which adds lots of features to this Smart LED Light.
+- Compatible with [ESPurna Firmware](https://github.com/xoseperez/espurna "ESPurna Firmware") which adds lots of features to this Smart LED Light.
 
 Check out this video for more information. 
 
